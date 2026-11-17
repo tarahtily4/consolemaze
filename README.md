@@ -4,7 +4,7 @@ A roguelike-style maze game written in pure Java (Swing, no external libraries).
 
 > Pet project. Built to practice layered architecture, procedural generation and clean OOP in plain Java.
 
-<!-- Add a screenshot or GIF here: ![Gameplay](docs/screenshot.png) -->
+<img width="707" height="667" alt="image" src="https://github.com/user-attachments/assets/bde21bd5-b7a1-4ab4-8234-a1d16d8a1391" />
 
 ## Features
 
